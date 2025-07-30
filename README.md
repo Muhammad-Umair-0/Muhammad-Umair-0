@@ -40,12 +40,12 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmair4u&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=MuhammadUmair4u&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Umair-0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Muhammad-Umair-0&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmair4u&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=7200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Umair-0&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=7200" alt="Top Languages" />
 </div>
 
 ### 📈 Contribution Graph
@@ -59,10 +59,3 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammad.1321u@gmail.com)
-
-</div>
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Umair-0&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
