@@ -50,7 +50,7 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadUmair4u&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Umair-0&theme=redical&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 
