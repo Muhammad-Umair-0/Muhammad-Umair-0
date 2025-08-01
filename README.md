@@ -36,17 +36,17 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Umair-0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Muhammad-Umair-0&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Umair-0&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Umair-0&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=7200" alt="Top Languages" />
 </div>
+
 
 ### 📈 Contribution Graph
 <div align="center">
