@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Umair! 👋
+# Hi there, I'm Muhammad Umair! 
 
 ## 📌 About Me
 I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist** with hands-on experience in building end-to-end ML pipelines and deploying AI solutions in production.I specialize in transforming complex AI concepts into real-world applications.
