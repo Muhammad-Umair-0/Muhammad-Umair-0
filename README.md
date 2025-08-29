@@ -24,6 +24,9 @@ I'm a passionate **Machine Learning Engineer** and **Computer Vision Specialist*
 ![CNN](https://img.shields.io/badge/-CNN-FF6B6B?style=flat-square&logo=neural-network&logoColor=white)
 ![Detectron2](https://img.shields.io/badge/-Detectron2-1877F2?style=flat-square&logo=facebook&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0066CC?style=flat-square&logo=google&logoColor=white)
+![SAM2](https://img.shields.io/badge/-SAM2-8A2BE2?style=flat-square&logo=meta&logoColor=white)
+![R-CNN](https://img.shields.io/badge/-R--CNN-4CAF50?style=flat-square&logo=opencv&logoColor=white)
+![Mask R-CNN](https://img.shields.io/badge/-Mask%20R--CNN-FF8C00?style=flat-square&logo=pytorch&logoColor=white)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
